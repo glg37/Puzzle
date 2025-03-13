@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Ball
   - Pillar
+  - Cup
   layers:
   - Default
   - TransparentFX
