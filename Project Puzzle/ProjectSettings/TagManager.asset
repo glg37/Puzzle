@@ -7,6 +7,14 @@ TagManager:
   - Ball
   - Pillar
   - Cup
+  - BallBlue
+  - CupYellow
+  - CupBlue
+  - CupRed
+  - CupGreen
+  - BallRed
+  - BallYellow
+  - BallGreen
   layers:
   - Default
   - TransparentFX

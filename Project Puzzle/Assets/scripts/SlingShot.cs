@@ -1,5 +1,5 @@
 using UnityEngine;
-using UnityEngine.SceneManagement;  // Para carregar a próxima cena
+using UnityEngine.SceneManagement;  
 
 public class SlingShot : MonoBehaviour
 {
@@ -57,7 +57,7 @@ public class SlingShot : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D colisao)
     {
-        // Verifica se a colisão é com o objeto copo
+      
         if (colisao.CompareTag("Cup"))
         {
             Debug.Log("Bolinha entrou no copo!");
@@ -72,10 +72,10 @@ public class SlingShot : MonoBehaviour
 
     void CriarNovaBolinha()
     {
-        // Debug para verificar a criação da nova bolinha
+        
         Debug.Log("Criando uma nova bolinha");
 
-        // Instancia a nova bolinha em uma posição segura (pode ajustar)
+      
         Instantiate(bolinhaPrefab, posiçãoInicial + new Vector2(1f, 0f), Quaternion.identity);
     }
 
