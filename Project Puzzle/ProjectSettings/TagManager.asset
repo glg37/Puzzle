@@ -15,6 +15,7 @@ TagManager:
   - BallRed
   - BallYellow
   - BallGreen
+  - Wall
   layers:
   - Default
   - TransparentFX

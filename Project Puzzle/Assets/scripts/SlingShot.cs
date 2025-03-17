@@ -55,38 +55,8 @@ public class SlingShot : MonoBehaviour
         bolinhasLançadas++;
     }
 
-    void OnTriggerEnter2D(Collider2D colisao)
-    {
-      
-        if (colisao.CompareTag("Cup"))
-        {
-            Debug.Log("Bolinha entrou no copo!");
-            CriarNovaBolinha();
-        }
+    
 
-        if (bolinhasLançadas >= 3)
-        {
-            MudarDeCena();
-        }
-    }
-
-    void CriarNovaBolinha()
-    {
-        
-        Debug.Log("Criando uma nova bolinha");
-
-      
-        Instantiate(bolinhaPrefab, posiçãoInicial + new Vector2(1f, 0f), Quaternion.identity);
-    }
-
-    void MudarDeCena()
-    {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
-    }
-
-    void OnDrawGizmos()
-    {
-        Gizmos.color = Color.red;
-        Gizmos.DrawLine(transform.position, posiçãoInicial);
-    }
+   
+    
 }
