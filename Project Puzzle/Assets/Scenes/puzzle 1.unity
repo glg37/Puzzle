@@ -359,7 +359,7 @@ GameObject:
   - component: {fileID: 215448783}
   m_Layer: 0
   m_Name: ball (11)
-  m_TagString: BallGreen
+  m_TagString: Ball
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -372,7 +372,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 215448778}
   m_LocalRotation: {x: -0, y: -0, z: -0.70448726, w: 0.70971656}
-  m_LocalPosition: {x: -5.77, y: -2.51, z: -0.29130352}
+  m_LocalPosition: {x: 2.48, y: -0.69, z: -0.29130352}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -482,7 +482,7 @@ GameObject:
   - component: {fileID: 226862150}
   m_Layer: 0
   m_Name: ball
-  m_TagString: BallRed
+  m_TagString: Ball
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -568,7 +568,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 226862143}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -9.02, y: -6.2699995, z: -0.29130352}
+  m_LocalPosition: {x: 8.66, y: -0.54, z: -0.29130352}
   m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -938,7 +938,7 @@ GameObject:
   - component: {fileID: 437583621}
   m_Layer: 0
   m_Name: ball (9)
-  m_TagString: BallGreen
+  m_TagString: Ball
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -951,7 +951,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 437583616}
   m_LocalRotation: {x: -0, y: -0, z: -0.70448726, w: 0.70971656}
-  m_LocalPosition: {x: -5.82, y: -3.82, z: -0.29130352}
+  m_LocalPosition: {x: 8.61, y: 0.79, z: -0.29130352}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1663,7 +1663,7 @@ GameObject:
   - component: {fileID: 582296504}
   m_Layer: 0
   m_Name: ball (3)
-  m_TagString: BallRed
+  m_TagString: Ball
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1749,7 +1749,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 582296499}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -9.01, y: -3.71, z: -0.29130352}
+  m_LocalPosition: {x: 1.47, y: -0.74, z: -0.29130352}
   m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2119,7 +2119,7 @@ GameObject:
   - component: {fileID: 701028003}
   m_Layer: 0
   m_Name: ball (10)
-  m_TagString: BallGreen
+  m_TagString: Ball
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2132,7 +2132,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 701027998}
   m_LocalRotation: {x: -0, y: -0, z: -0.70448726, w: 0.70971656}
-  m_LocalPosition: {x: -5.83, y: -5.44, z: -0.29130352}
+  m_LocalPosition: {x: 6.99, y: -0.37, z: -0.29130352}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2353,7 +2353,7 @@ GameObject:
   - component: {fileID: 939757553}
   m_Layer: 0
   m_Name: ball (6)
-  m_TagString: BallRed
+  m_TagString: Ball
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2439,7 +2439,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 939757548}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -8.95, y: -4.99, z: -0.29130352}
+  m_LocalPosition: {x: 2.96, y: 0.29, z: -0.29130352}
   m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2479,7 +2479,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1113663449
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2607,7 +2607,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1138769364}
   - component: {fileID: 1138769366}
-  - component: {fileID: 1138769367}
+  - component: {fileID: 1138769368}
   m_Layer: 0
   m_Name: CupGreen
   m_TagString: CupGreen
@@ -2659,7 +2659,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 3.53}
   m_EdgeRadius: 0
---- !u!114 &1138769367
+--- !u!114 &1138769368
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2668,12 +2668,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1138769363}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d142ec73a082cb948b76ce3cfc954587, type: 3}
+  m_Script: {fileID: 11500000, guid: 2681fb4d03ca78342b0949aaa382486a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballTag: BallGreen
-  cupTag: CupGreen
-  victoryText: {fileID: 1113663449}
+  nomeCena: 'puzzle 2 '
 --- !u!1 &1151472716
 GameObject:
   m_ObjectHideFlags: 0
@@ -2822,7 +2820,7 @@ GameObject:
   - component: {fileID: 1193671740}
   m_Layer: 0
   m_Name: ball (7)
-  m_TagString: BallBlue
+  m_TagString: Ball
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2908,7 +2906,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1193671735}
   m_LocalRotation: {x: -0, y: -0, z: -0.7009994, w: 0.71316195}
-  m_LocalPosition: {x: -10.650001, y: -4.51, z: -0.29130352}
+  m_LocalPosition: {x: 3.81, y: -0.53, z: -0.29130352}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2945,7 +2943,7 @@ GameObject:
   - component: {fileID: 1243196040}
   m_Layer: 0
   m_Name: ball (4)
-  m_TagString: BallBlue
+  m_TagString: Ball
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3031,7 +3029,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1243196035}
   m_LocalRotation: {x: -0, y: -0, z: -0.7009994, w: 0.71316195}
-  m_LocalPosition: {x: -10.530182, y: -5.508717, z: -0.29130352}
+  m_LocalPosition: {x: 6.2, y: 0.71, z: -0.29130352}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3064,7 +3062,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1268167399}
   - component: {fileID: 1268167400}
-  - component: {fileID: 1268167401}
+  - component: {fileID: 1268167402}
   m_Layer: 0
   m_Name: CupBlue
   m_TagString: CupBlue
@@ -3116,7 +3114,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 3.53}
   m_EdgeRadius: 0
---- !u!114 &1268167401
+--- !u!114 &1268167402
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3125,12 +3123,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1268167398}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed264fb3e7b631e42b135585ebf822bd, type: 3}
+  m_Script: {fileID: 11500000, guid: 2681fb4d03ca78342b0949aaa382486a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballTag: BallBlue
-  cupTag: CupBlue
-  victoryText: {fileID: 1113663449}
+  nomeCena: 'puzzle 2 '
 --- !u!1 &1276794001
 GameObject:
   m_ObjectHideFlags: 0
@@ -3141,7 +3137,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1276794002}
   - component: {fileID: 1276794004}
-  - component: {fileID: 1276794005}
+  - component: {fileID: 1276794006}
   m_Layer: 0
   m_Name: CupRed
   m_TagString: CupRed
@@ -3193,7 +3189,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 3.53}
   m_EdgeRadius: 0
---- !u!114 &1276794005
+--- !u!114 &1276794006
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3202,12 +3198,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1276794001}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1ae228656b6805546babcd498dc66cc2, type: 3}
+  m_Script: {fileID: 11500000, guid: 2681fb4d03ca78342b0949aaa382486a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballTag: BallRed
-  cupTag: CupRed
-  victoryText: {fileID: 1113663449}
+  nomeCena: 'puzzle 2 '
 --- !u!1 &1292567628
 GameObject:
   m_ObjectHideFlags: 0
@@ -3767,7 +3761,7 @@ GameObject:
   - component: {fileID: 1502573957}
   m_Layer: 0
   m_Name: ball (2)
-  m_TagString: BallYellow
+  m_TagString: Ball
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3853,7 +3847,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1502573952}
   m_LocalRotation: {x: -0, y: -0, z: -0.71064895, w: 0.7035469}
-  m_LocalPosition: {x: -7.53, y: -5.56, z: -0.29130352}
+  m_LocalPosition: {x: 1.45, y: 0.27, z: -0.29130352}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3886,7 +3880,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1572726328}
   - component: {fileID: 1572726329}
-  - component: {fileID: 1572726330}
+  - component: {fileID: 1572726331}
   m_Layer: 0
   m_Name: CupYellow
   m_TagString: CupYellow
@@ -3938,7 +3932,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 3.53}
   m_EdgeRadius: 0
---- !u!114 &1572726330
+--- !u!114 &1572726331
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3947,12 +3941,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1572726327}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a892a3c26f0df034a82c675b39da1a98, type: 3}
+  m_Script: {fileID: 11500000, guid: 2681fb4d03ca78342b0949aaa382486a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballTag: BallYellow
-  cupTag: CupYellow
-  victoryText: {fileID: 1113663449}
+  nomeCena: 'puzzle 2 '
 --- !u!1 &1578730266
 GameObject:
   m_ObjectHideFlags: 0
@@ -3967,7 +3959,7 @@ GameObject:
   - component: {fileID: 1578730271}
   m_Layer: 0
   m_Name: ball (1)
-  m_TagString: BallBlue
+  m_TagString: Ball
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4053,7 +4045,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1578730266}
   m_LocalRotation: {x: -0, y: -0, z: -0.7009994, w: 0.71316195}
-  m_LocalPosition: {x: -10.55, y: -3.53, z: -0.29130352}
+  m_LocalPosition: {x: 0.15, y: -0.63, z: -0.29130352}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4194,7 +4186,7 @@ GameObject:
   - component: {fileID: 1611345151}
   m_Layer: 0
   m_Name: ball (5)
-  m_TagString: BallYellow
+  m_TagString: Ball
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4280,7 +4272,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1611345146}
   m_LocalRotation: {x: -0, y: -0, z: -0.71064895, w: 0.7035469}
-  m_LocalPosition: {x: -7.56, y: -4.13, z: -0.29130352}
+  m_LocalPosition: {x: 7.25, y: 1.43, z: -0.29130352}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4614,7 +4606,7 @@ GameObject:
   - component: {fileID: 2099966559}
   m_Layer: 0
   m_Name: ball (8)
-  m_TagString: BallYellow
+  m_TagString: Ball
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4700,7 +4692,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2099966554}
   m_LocalRotation: {x: -0, y: -0, z: -0.71064895, w: 0.7035469}
-  m_LocalPosition: {x: -7.45, y: -2.77, z: -0.29130352}
+  m_LocalPosition: {x: 5.09, y: -0.22, z: -0.29130352}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
