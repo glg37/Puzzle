@@ -16,6 +16,7 @@ TagManager:
   - BallYellow
   - BallGreen
   - Wall
+  - Caixa
   layers:
   - Default
   - TransparentFX
