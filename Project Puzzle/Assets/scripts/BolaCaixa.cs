@@ -6,13 +6,14 @@ public class BolaCaixa : MonoBehaviour
     
     public string nomeDaCena = "puzzle 3";
 
-    private void OnCollisionEnter(Collision colisao)
+    
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        
-        if (colisao.gameObject.CompareTag("Caixa"))
+        if (collision.gameObject.CompareTag("Caixa"))
         {
-           
+
             SceneManager.LoadScene(nomeDaCena);
         }
+
     }
 }
